@@ -1,0 +1,7 @@
+Players are given questions and a finite(prefarably small) aount of time to complete them
+It is a grid quiz so they have to choose the right answer
+For every good answer they recieve points(the harder the question is ,the bigger the reward)
+They get to the next question either by anwering in any way to the question or if their time runs out
+Every Player gets about 27 random questions(wich should take around 15 minutes assuming they take the whole given time to answer the questions
+The players that answer the questions the fastest are going to get more points(the value of the question they are given multiplied by (the time they have left + 1/10 the time they have left) / 15
+If two(or maybe more) top players get the same result(let's say the first two have the same number of points)they get to the final round in wich they are given 12 minutes to code a snake game in whatever language they want.The game that has the cleanest code,best UX and the best UI is going to win the competition 
